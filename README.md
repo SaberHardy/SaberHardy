@@ -9,7 +9,13 @@ I am a software developer with a strong interest in creating efficient, scalable
 * 🌍  I'm based in Texas - Austin
 * 🧠  I'm learning New Techs
 * 🤝  I'm open to collaborating on AI, ML, DL, NLP, LLM
+* ✅  I Build projects using Python, and different frameworks
 * ⚡  Web Development: Building responsive and dynamic web applications using Spring Boot
+
+  
+### Any ?
+💯 Founder of @TechWithSabri
+🔜 I'm Loading new Companies in my mind, STAY TOONED
 
 ### Skills
 
@@ -22,7 +28,9 @@ I am a software developer with a strong interest in creating efficient, scalable
 ### Socials
 
 <p align="left">Facebook:<br> <a href="https://www.facebook.com/Saber4Tech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a>
-<br><p align="left">Github: </p><a href="https://www.github.com/SaberHardy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+  
+<br><p align="left">Github: </p><a href="https://www.github.com/SaberHardy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a><br>
+
 <p align="left">YouTube: <br><a href="https://www.youtube.com/@TechWithSabri" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
